@@ -1,0 +1,6 @@
+{
+  "name": "PPT 水印消除大师",
+  "description": "一键去除 PPT 中的固定文本水印，支持全局幻灯片、母版及布局清理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
